@@ -1,0 +1,29 @@
+{
+  "name": "compose-io-create-db",
+  "version": "1.0.0",
+  "description": "Example implementation (Node) of MongoDB database creation using Compose.io API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttamminen/compose-io-create-db.git"
+  },
+  "keywords": [
+    "node",
+    "compose.io",
+    "mongo",
+    "mongoose"
+  ],
+  "author": "Tatu Tamminen / TripleT Softworks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttamminen/compose-io-create-db/issues"
+  },
+  "homepage": "https://github.com/ttamminen/compose-io-create-db",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "request": "^2.60.0"
+  }
+}
