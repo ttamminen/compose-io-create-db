@@ -5,7 +5,7 @@ The source code is related to [this blog post](http://www.triplet.fi/blog/how-to
 
 ## Usage
 
-Create file called `config.json` and fill it with your personal data.
+Create file called `conf.json` and fill it with your personal data.
 
     {
 	    "accountName": "",
